@@ -58,3 +58,4 @@ complete and documented.
 
 - GitHub: https://github.com/marina-s-dev
 - LinkedIn: https://www.linkedin.com/in/marina-snezhko-b38997377/
+- Telegram: https://t.me/marina_s_dev
